@@ -1,0 +1,3 @@
+[submodule "course-materials/stanford-cs336-lectures"]
+	path = course-materials/stanford-cs336-lectures
+	url = https://github.com/stanford-cs336/lectures.git
