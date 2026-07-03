@@ -12,4 +12,4 @@ Each lecture folder contains:
 ## Lectures
 
 - [Lecture 1: Overview and Tokenization](lecture-01/summary.md)
-
+- [Lecture 2: PyTorch, Resource Accounting, and Gradients](lecture-02/summary.md)
