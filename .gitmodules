@@ -1,3 +1,6 @@
 [submodule "course-materials/stanford-cs336-lectures"]
 	path = course-materials/stanford-cs336-lectures
 	url = https://github.com/stanford-cs336/lectures.git
+[submodule "assignments/assignment-1-basics-official"]
+	path = assignments/assignment-1-basics-official
+	url = https://github.com/stanford-cs336/assignment1-basics.git
